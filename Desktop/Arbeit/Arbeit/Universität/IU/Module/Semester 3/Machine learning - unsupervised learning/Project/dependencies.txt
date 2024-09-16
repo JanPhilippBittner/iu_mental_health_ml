@@ -1,6 +1,0 @@
-polars
-numpy
-
-
-
-pandas
